@@ -6,7 +6,8 @@ folder Google Drive `Materi Kuliah/Semester X/<Mata Kuliah>/Bab Y/` yang dibuat 
 ## Fitur
 - Login Google, tombol **Ganti akun** (selalu memunculkan pilihan akun)
 - Upload banyak file sekaligus ke folder otomatis
-- Filter berjenjang: semester → mata kuliah → bab
+- Folder tampil sebagai kartu bergaya neo-brutalis; ketuk untuk masuk berjenjang: semester → mata kuliah → bab → file (ada penanda BARU untuk unggahan 3 hari terakhir)
+- Pencarian nama file / mata kuliah lewat ikon kaca pembesar
 - Tab **Terhapus dari Drive**: file yang dihapus (masuk Tempat Sampah) tetap tampil, bisa diunduh atau dipulihkan
 - Tanpa database: info semester/matkul/bab disimpan di properti file Drive itu sendiri
 
